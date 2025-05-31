@@ -24,7 +24,7 @@ I think the internet has turned away from being a real trash can and the central
 Having more trouble right now with the Cyber and AI bullshit that we can see everywhere.  
 <br/>
 
-Check my [projects page]()
+Check my projects page
 
 Everything is also available on [Github](https://github.com/DXC-0)
 
@@ -38,8 +38,8 @@ This is the choice of [steins;gates](https://www.echosciences-grenoble.fr/articl
 
 ## My Documentations 
 
-[How to deploy a Tor Node]()
+How to deploy a Tor Node
 
-[Homeserver]()
+Homeserver
 
-[Personal Network Infrastructure]()
+Personal Network Infrastructure
