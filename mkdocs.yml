@@ -6,18 +6,13 @@ theme:
     scheme: slate
     primary: "black"
     accent: "green"
-    
+  favicon: 'assets/test.jpg'
+  logo: 'assets/test.jpg'
   highlightjs: true
 site_author: DXC-0
 copyright: DXC-0
 site_description: DXC-0 Linux Documentation
-markdown_extensions:
-    - toc:
-        toc_depth : "1-1"
+nav:
+- 'About Me.md'
 extra_css:
-  - custom.css
-extra_html:
-  - '<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">'
-site_url: https://dxc-0.github.io/AboutMe/
-docs: AboutMe/docs
-use_directory_urls: false
+  - assets/custom.css
