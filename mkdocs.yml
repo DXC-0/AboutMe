@@ -1,0 +1,24 @@
+site_name: DXC-0
+theme:
+  name: material
+  include_sidebar: false
+  palette:
+    scheme: slate
+    primary: "black"
+    accent: "green"
+  favicon: 'assets/test.jpg'
+  logo: 'assets/test.jpg'
+  highlightjs: true
+site_author: DXC-0
+copyright: DXC-0
+site_description: DXC-0 Linux Documentation
+markdown_extensions:
+    - toc:
+        toc_depth : "1-1"
+extra_css:
+  - custom.css
+extra_html:
+  - '<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">'
+docs_dir: docs
+site_dir: site
+repo_url: https://github.com/DXC-0/AboutMe
