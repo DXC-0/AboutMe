@@ -6,8 +6,8 @@ theme:
     scheme: slate
     primary: "black"
     accent: "green"
-  favicon: 'assets/test.jpg'
-  logo: 'assets/test.jpg'
+  favicon: 'docs/assets/test.jpg'
+  logo: 'docs/assets/test.jpg'
   highlightjs: true
 site_author: DXC-0
 copyright: DXC-0
@@ -19,6 +19,5 @@ extra_css:
   - custom.css
 extra_html:
   - '<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;700&display=swap" rel="stylesheet">'
-docs_dir: docs
-site_dir: site
-repo_url: https://github.com/DXC-0/AboutMe
+site_url: https://dxc-0.github.io/AboutMe/
+use_directory_urls: false
