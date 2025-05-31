@@ -6,8 +6,6 @@ theme:
     scheme: slate
     primary: "black"
     accent: "green"
-  favicon: 'assets/test.jpg'
-  logo: 'assets/test.jpg'
   highlightjs: true
 site_author: DXC-0
 copyright: DXC-0
@@ -17,4 +15,4 @@ nav:
 extra_css:
   - assets/custom.css
 site_url: https://dxc-0.github.io/AboutMe/
-use_directory_urls: true
+use_directory_urls: false
