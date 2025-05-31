@@ -17,4 +17,4 @@ nav:
 extra_css:
   - assets/custom.css
 site_url: https://dxc-0.github.io/AboutMe/
-use_directory_urls: false
+use_directory_urls: true
