@@ -6,8 +6,7 @@ theme:
     scheme: slate
     primary: "black"
     accent: "green"
-  favicon: 
-  logo: 
+    
   highlightjs: true
 site_author: DXC-0
 copyright: DXC-0
