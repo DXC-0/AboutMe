@@ -103,13 +103,3 @@ h1, h2, h3, h4, h5, h6, p, li {
 .md-typeset h4 {
   color: #ee22b0 !important;
 }
-
-@media screen {
-  .md-header__button.md-icon--menu {
-    display: none !important;
-  }
-  /* Empêche l'affichage du menu mobile */
-  .md-nav__drawer {
-    display: none !important;
-  }
-}
